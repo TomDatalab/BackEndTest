@@ -9,7 +9,7 @@
 1) Q&A test
 2) Practical test.
 
-The skills required are all common to most modern applied approaches to UX/CX.
+The skills required are all common to most modern applied approaches to Backend.
 
 
 ---
